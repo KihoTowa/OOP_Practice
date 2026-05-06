@@ -12,5 +12,6 @@ class ColorPointTest
         c2.move(5,5);
         c2.print();
         c3.print();
+        
     }
 };
